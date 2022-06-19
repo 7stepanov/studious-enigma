@@ -46,6 +46,5 @@ git2022 -- dream team!
 ## ссылки 
  
  + чтобы вставить ссылку в текст, выполните следующее:
- Ссылка на [GitHub](https://github.com/) 
-
- vvv---vv
+ Ссылка на [GitHub](https://github.com/)
+ 
